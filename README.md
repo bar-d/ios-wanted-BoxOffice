@@ -48,13 +48,13 @@
 
 |**메인 화면** | **측정 화면** | 
 | -------- | -------- |
-|<img src="https://i.imgur.com/4eMi5zN.jpg" width="270" height="250"/>| <img src="https://i.imgur.com/B8R3dmi.jpg" width="270" height="250"/>|
+|<img src="https://i.imgur.com/4eMi5zN.jpg" width="250" height="450"/>| <img src="https://i.imgur.com/B8R3dmi.jpg" width="250" height="450"/>|
 
 <br>
 
 | 공유 화면 | 리뷰 화면 | 
 | -------- | -------- |
-| <img src="https://i.imgur.com/oMetFZh.gif" width="270" height="250"/> | <img src="https://i.imgur.com/O6ylInX.gif" width="270" height="250"/> |
+| <img src="https://i.imgur.com/oMetFZh.gif" width="250" height="450"/> | <img src="https://i.imgur.com/O6ylInX.gif" width="250" height="450"/> |
 
 ### 1. SwiftUI MVVM
 - 뷰를 구성하는 방법은 SwiftUI를 선택했습니다.
